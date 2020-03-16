@@ -30,6 +30,7 @@ def adding
   local_manifest["muskets"] = 2
   local_manifest["gun powder"] = 4
   
-  local_manifest
+  local_manifest = shipping_manifest
+  shipping_manifest
 
 end
